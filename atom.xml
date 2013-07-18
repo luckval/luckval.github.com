@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[せつなにつき＠ぎっぺ]]></title>
   <link href="http://luckval.github.io/atom.xml" rel="self"/>
   <link href="http://luckval.github.io/"/>
-  <updated>2013-07-19T01:38:50+09:00</updated>
+  <updated>2013-07-19T01:59:00+09:00</updated>
   <id>http://luckval.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[luckval]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
