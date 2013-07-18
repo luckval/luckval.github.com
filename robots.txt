@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://luckval.github.io/sitemap.xml 
