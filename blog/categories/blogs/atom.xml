@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[せつなにつき＠ぎっぺ]]></title>
-  <link href="http://luckval.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: blogs | せつなにつき＠ぎっぺ]]></title>
+  <link href="http://luckval.github.io/blog/categories/blogs/atom.xml" rel="self"/>
   <link href="http://luckval.github.io/"/>
   <updated>2013-07-21T18:00:56+09:00</updated>
   <id>http://luckval.github.io/</id>
